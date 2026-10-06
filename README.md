@@ -1,2 +1,6 @@
-# DIO
-Repositório para o curso de Excel com IA da DIO com o Santander
+
+As perguntas que a ferramenta responde, e onde aparece cada resposta: PARA ATINIG UM PATROMINIO X QUANTO EU DEVO APORTAR MENSALMENTE, E QUANTO ISSO VARIA DE ACORDO COM O MEU NIVEL DE INVESTIDOR
+Como o VF e o PROCV entram nos cálculos; VF PARA CALCULAR O PATRIMONIO, E PROCV PARA VER QUAL O % DE DISTRIBUIÇÃO DA CARTEIRA DE ACORDO COM O PERFIL DE INVESTIDOR
+Os intervalos nomeados que você criou; SALARIO, PRAZO, PATRIMONIO, PERFIL
+Os percentuais de cada perfil, e de onde vieram; SOLICITEI PARA A IA ME SUGERIR ESSES %
+O que você mudou em relação à ferramenta do Expert, ALTEREI QUE CONSIGO VERIFICAR O % DE DISTRIBUIÇAÕ DE CARTEIRA DE TODOS OS PERFIS EM UMA UNICA TELA
